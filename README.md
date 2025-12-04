@@ -178,4 +178,19 @@ script.js
    ```
 
 ---
+## Скриншоты 
+ 
+### Пример погоды — солнечно
+![Солнечная погода](./screenshots/weather-sun.png)
+
+### Пример погоды — облачно
+![Облачная погода](./screenshots/weather-cloudy.png)
+
+### Пример погоды — дождь
+![Дождь](./screenshots/weather-rain.png)
+
+### Пример погоды — снег
+![Снег](./screenshots/weather-snow.png)
+
+
 
